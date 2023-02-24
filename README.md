@@ -7,4 +7,4 @@ CSS 3
 Bootstrap
 
 
-the icons used is remix
+the icons used is remixicons
